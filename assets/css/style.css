@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap");
+
+.titulo {
+  text-align: center;
+}
+
+.bordes1 {
+  border: 2px solid red;
+  text-align: center;
+  height: 200px;
+}
+.bordes1-1 {
+  border: 2px solid red;
+  text-align: start;
+  height: 800px;
+}
+
+.bordes1-2 {
+  border: 2px solid red;
+  text-align: start;
+  height: 200px;
+}
+.bordes2 {
+  border: 2px solid red;
+}
+
+.bordes1-3 {
+  text-align: start;
+  width: 650px;
+  height: 800px;
+}
+
+.bordes1-4 {
+  border: 2px solid blue;
+  text-align: center;
+  width: 100%;
+}
+
+footer{
+  text-align: center;background-color: rgb(200, 220, 213); padding: 4px;margin: 4px 0px 0px 0px;
+}
